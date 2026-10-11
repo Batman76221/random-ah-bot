@@ -1,0 +1,17 @@
+{
+  "token": "",
+  "clientId": "",
+  "guildId": "",
+  "reactionRolesChannelId": "",
+  "savedMessageId": "",
+  "bugReportChannelId": "",
+  "logChannelId": "",
+  "developerRoleId": "",
+  "updateChannelId": "",
+  "roles": {
+    "💬": "",
+    "📱": "",
+    "📊": "",
+    "📢": ""
+  }
+}
